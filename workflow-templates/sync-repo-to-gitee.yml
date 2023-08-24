@@ -1,4 +1,4 @@
-name: sync github repo to gitee mirror
+name: synchronization repository to gitee
 
 # Trigger behavior
 on: push
