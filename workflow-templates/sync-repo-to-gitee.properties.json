@@ -1,0 +1,8 @@
+{
+    "name": "synchronization repository to gitee",
+    "description": "ituknown Organization CI workflow template.",
+    "iconName": "gitee",
+    "categories": [
+        "Markdown"
+    ]
+}

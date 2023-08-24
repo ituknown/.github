@@ -1,8 +1,0 @@
-{
-    "name": "sync repo to gitee mirror",
-    "description": "Ituknown Organization CI workflow template.",
-    "iconName": "gitee",
-    "categories": [
-        "Markdown"
-    ]
-}
