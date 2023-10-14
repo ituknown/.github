@@ -31,7 +31,7 @@ jobs:
           dst_token: ${{ secrets.GITEE_TOKEN }}
 
           # 当前仓库属于用户(user) 还是属于组织(org), 默认为 user
-          account_type: user
+          account_type: org
 
           # 默认会同步 account_type 下的所有仓库, 打开下面配置只同步当前仓库
-          # static_list: ${{ github.event.repository.name }}
+          static_list: ${{ github.event.repository.name }}
